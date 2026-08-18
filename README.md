@@ -1,4 +1,6 @@
 # Improved-Ensemble-Machine-Learning-Framework-for-Superior-Smart-Grid-Stability-Prediction
+Paper link:https://ieeexplore.ieee.org/abstract/document/11490240 
+DOI: 10.1109/ICCIT68739.2025.11490240
 Adding renewable energy sources to the power grid has become essential as population growth continues to increase electricity demand. The rising use of fossil fuels, the impact of global warming, and the falling costs of renewable technologies have made it essential to incorporate them into the grid grid a major requirement. The developed countries have already taken steps toward this integration. The rise of smart grids marks a major change in power systems to address these challenges. In this model, consumers, producers, and those who play both roles are smartly connected, with the main aim of ensuring electricity that is reliable, cost-effective, secure, and sustainable.
 ## Setting Up 
 The model is developed on the following system environments,
